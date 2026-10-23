@@ -209,4 +209,4 @@ Windows Search is the full free version with all features and updates included. 
 Take the next step in optimizing your file searches and download **Windows Search** today!
 
 ---
-**Last updated:** 2026-10-23 09:11:44 UTC
+**Last updated:** 2026-10-23 14:44:06 UTC
